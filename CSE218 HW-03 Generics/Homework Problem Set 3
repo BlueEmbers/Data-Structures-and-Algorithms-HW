@@ -1,0 +1,30 @@
+Data Structures and Algorithms
+Homework Problem Set 3
+
+1. Rewrite the StackX class we wrote today to make it a generic class call GStack. The generic class
+should work with any types of objects.
+
+2. Add a method called pushAll to the above generic stack class. The method must allow the user
+to add an array of objects to the stack. This method must avoid any runtime errors. 
+
+3. Add a method called popAll to the above generic stack class. The method must allow the user to
+remove the entire stack content in sequence and return an array of the removed objects to the
+caller.
+
+4. Write a generic bag class called NumberBag that can be used to store any types of Number
+objects. The generic bag class must allow the user to insert, remove, find, and display the
+numbers.
+
+5. Write a generic bag class called GBag using an array to store any objects. Test the class with a
+Demo class to store, find, delete, and display integers, and String, respectively.
+
+6. Write another class called Student, which contains name (String), id (String), and gpa (double)
+fields. Modify the above generic GBag class from the previous problem to store five students
+with automatically generated id numbers. You will then find, delete, and display any student by
+his/her id number.
+
+7. Write another class called Faculty, which contains name, id, and salary fields. Modify the generic
+GBag class from the previous problems, if necessary, to store five faculty and five students, and
+then find, delete, and display either faculty or student by id number. All id numbers should be
+automatically generated and there should not have any duplicated values between Students and
+Faculty.
