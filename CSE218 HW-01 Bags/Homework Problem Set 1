@@ -1,0 +1,19 @@
+Data Structures and Algorithms
+Homework Problem Set 1
+
+1. Implement a Bag class to store and manipulate data of int type. The class should allow to add,
+remove, and search any whole numbers. The remove and search methods should return a
+boolean value of either true or false depending on whether the number is removed or found. In
+addition, it should also contain findMax, findMin, and findMean methods that allow to search
+for the largest, smallest and average values in the bag, respectively. Finally, it should have a
+display method that will print the bag content on the console. Write a Demo class to
+demonstrate the use of the Bag class.
+
+2. Implement a Bag class to store and manipulate data of the Student type. The Student class must
+have a name, ID Number, and GPA. The Bag class should allow to add, remove, and search any
+student by his/her ID number. The remove and search methods should return a boolean value
+of either true or false depending on whether the student (identified by his/her ID number) is
+removed or found. In addition, it should also contain findMax, findMin and FindMean methods
+that allow to search for the largest, smallest, and average GPA values in the bag, respectively,
+and return these values accordingly. Finally, it should have a display method that will print the
+bag content on the console. Write a Demo class to demonstrate the use of the Bag class.

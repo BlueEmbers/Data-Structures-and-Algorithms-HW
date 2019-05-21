@@ -1,0 +1,22 @@
+Data Structures and Algorithms
+Homework Problem Set 2
+
+1. Write a Student class with name (String), id (int), and gpa (double) as fields. Write the usual
+methods. In addition, write an equals() method that allows you to compare the object’s content
+with another Student object, returning true if the two objects have the same content. Also,
+write a constructor that will take an existing object to create another identical one. Finally, write
+a deep copy method and a shallow method that will allow you to copy an existing object to
+create another one. Write a demo to show how they work.
+
+2. Use the code from the last problem, build a StudentBag class that will allow you to add student
+objects into the bag and display the content of the bag. It will also allow you to find and remove
+a given Student object by the id number from the bag. You must use an array as the underlying
+data structure. Write a Demo program that will add 1000 student objects into the bag to test
+the aforementioned methods. These objects should be generated through an automated
+process.
+
+3. Use the code from the last problem, but add three additional methods into the StudentBag
+class. One will allow you to sort the students by name using bubble sort, one by id using
+selection sort, and one by gpa by insertion sort. Test these methods using the 1000 objects
+generated from the last problem. Finally, please provide a chart to show the performance of the
+three sorting methods in terms of the amount of time used.
