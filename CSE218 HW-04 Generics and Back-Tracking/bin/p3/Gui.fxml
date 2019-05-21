@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1000.0" prefWidth="1555.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <left>
+      <HBox prefHeight="1186.0" prefWidth="1549.0" BorderPane.alignment="CENTER">
+         <children>
+            <VBox prefHeight="200.0" prefWidth="100.0">
+               <children>
+                  <Button mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="110.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="210.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="310.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="210.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="310.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="610.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="410.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+               </children>
+            </VBox>
+            <VBox layoutX="10.0" layoutY="10.0" prefHeight="200.0" prefWidth="100.0">
+               <children>
+                  <Button mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="110.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="210.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="310.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="210.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="310.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="610.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="410.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+               </children>
+            </VBox>
+            <VBox layoutX="110.0" layoutY="10.0" prefHeight="200.0" prefWidth="100.0">
+               <children>
+                  <Button mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="110.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="210.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="310.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="210.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="310.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="610.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="410.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+               </children>
+            </VBox>
+            <VBox layoutX="110.0" layoutY="10.0" prefHeight="200.0" prefWidth="100.0">
+               <children>
+                  <Button mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="110.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="210.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="310.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="210.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="310.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="610.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="410.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+               </children>
+            </VBox>
+            <VBox layoutX="210.0" layoutY="10.0" prefHeight="200.0" prefWidth="100.0">
+               <children>
+                  <Button mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="110.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="210.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="310.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="210.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="310.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="610.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="410.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+               </children>
+            </VBox>
+            <VBox layoutX="210.0" layoutY="10.0" prefHeight="200.0" prefWidth="100.0">
+               <children>
+                  <Button mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="110.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="210.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="310.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="210.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="310.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="610.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="410.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+               </children>
+            </VBox>
+            <VBox layoutX="410.0" layoutY="10.0" prefHeight="200.0" prefWidth="100.0">
+               <children>
+                  <Button mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="110.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="210.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="310.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="210.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="310.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="610.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="410.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+               </children>
+            </VBox>
+            <VBox layoutX="510.0" layoutY="10.0" prefHeight="200.0" prefWidth="100.0">
+               <children>
+                  <Button mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="110.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="210.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="310.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="210.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="310.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="610.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="410.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+               </children>
+            </VBox>
+            <VBox layoutX="610.0" layoutY="10.0" prefHeight="200.0" prefWidth="100.0">
+               <children>
+                  <Button mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="110.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="210.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="310.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="210.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="310.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="610.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="410.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+               </children>
+            </VBox>
+            <VBox layoutX="610.0" layoutY="10.0" prefHeight="200.0" prefWidth="100.0">
+               <children>
+                  <Button mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="110.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="210.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="310.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="210.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="310.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="610.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+                  <Button layoutX="10.0" layoutY="410.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="100.0" />
+               </children>
+            </VBox>
+            <VBox layoutX="910.0" layoutY="10.0" prefHeight="1000.0" prefWidth="159.0">
+               <children>
+                  <Button mnemonicParsing="false" prefHeight="100.0" prefWidth="160.0" text="Undo" />
+               </children>
+            </VBox>
+         </children>
+      </HBox>
+   </left>
+</BorderPane>
