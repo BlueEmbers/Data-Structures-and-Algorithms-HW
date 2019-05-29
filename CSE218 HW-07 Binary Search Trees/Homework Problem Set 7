@@ -1,0 +1,59 @@
+Data Structures and Algorithms
+Homework Problem Set 7
+
+1. Genealogy Tree
+Write a program with GUI that allows the user to create genealogy trees. Each person in the
+genealogy tree will be restricted to having at most two children. The nodes will store string
+values representing names of people. The program should execute the following methods when
+the appropriate buttons are clicked after data are entered in the appropriate text fields.
+1. insertRoot(String rootName): Adds a name as the root of the tree. This method is used
+when the first node is inserted into an empty tree. The method will state the fact if the tree is not
+empty.
+2. insertLeftChild(String parentName, String childName): Adds a new node with the given
+name as the left child of the given parent. The method will state the fact if there is no node
+contains that given parent name or if that parent already has a left child.
+3. insertRightChild(String parentName, String childName). Adds a new node with the given
+name as the right child of the given parent. The method will state the fact if there is no node
+contains that given parent name or if that parent already has a right child.
+4. getDescendants(String name): Displays a list of all descendants of the node with the given
+name. It will state the fact if there is no node in the tree with that name.
+5. getAncestors (String name): Displays a list of all ancestors of the node given. It will state
+the fact if there no node with that name in the tree.
+6. newTree(): Create a new empty tree. An alert should pop up to state the fact.
+
+2. Dow Jones Industrial Average (DJIA)
+Write a Java program with GUI that allows the user to access the Dow Jones Industrial Average
+(DJIA) prices for the last ten years. A Binary Search Tree must be used to store the data. The
+raw data can be downloaded from the Internet. So if any of you manages to find them, please
+upload them onto Piazza for your classmates to use.
+The program must have the following features:
+1. The user can select either "Load", "Search", or "Compare" on a MenuBar.
+2. The "Load" menu has three menu items: "Ordered", "Randomized”, and “Reset." They
+determine how the raw data, which are sorted and stored in a text file called rawData.txt should
+be loaded into a binary search tree. If the "Ordered" menu item is selected, the raw data will be
+loaded in its original order. If the "Randomized" menu item is selected, the raw data should be
+randomized before loaded into the binary search tree. The “Search” menu and the “Compare”
+menu should remain disabled until either “Ordered” or “Randomized” menu item is clicked. The
+“Reset” menu item would reset and build a new empty tree. It will also clear both text files used
+for output, as described below. Furthermore, the “Reset” menu item will disable the “Search”
+and “Compare” menu.
+3.. The "Search" menu has one menu item called "Simple," which allows the user to search for
+the DJIA price when a date is selected on a date picker. When the date is picked, the selected
+date, the price of that date, and the time spent on the search should be displayed in the window
+and appended into a text file saved into a file called searchTime.txt in the project folder for each
+search carried out. If the market was closed at the selected date, the user should be informed
+as such by a JavaFX alert, in which case, no data will be displayed or saved into the file.
+4. The "Compare" menu has a menu item also called "Simple," which allows the user to
+compare the DJIA prices of two selected dates. The user should be allowed to select a
+beginning date and an ending date from a date picker. The first date is expected to be earlier
+than the second one obviously. Once both dates are selected, the two selected dates and the
+DJIA price of the two dates should be displayed together with the price change in percentage.
+The percentage figure should be in the regular color if its value is positive but in red if its value is
+negative. In addition, the same output data should be appended into another text file called
+compareTime.txt for each comparison carried out. If the beginning date selected is later than the
+ending date, the user should be informed as such with the use of a JavaFX alert. Again, if the
+stock market is closed for any one of the two dates selected, the user should be alerted as well.
+In both cases, no additional data should be displayed on the screen or saved into the text file.
+5. Do a few searches and comparisons, and then compare the time spent when the data were
+loaded in order and randomized. Make sure the data are clearly stored and organized for each
+case in the two output text files.

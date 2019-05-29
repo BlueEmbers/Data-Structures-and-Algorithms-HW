@@ -1,0 +1,22 @@
+Data Structures and Algorithms
+Homework Problem Set 6
+
+1. Write a program to use Quick Sort to sort an array of cois by their value
+
+2. Implement a program that measures the performance of the quick sort algorithm by
+using 100, 1000, and 10000 words, respectively. These words are captured from a text
+file.
+
+3. Write a program that sorts an ArrayList<Country> in decreasing order so that the largest
+country is at the beginning of the array.
+
+4. Modify the binary search program so if no match is found, the search method returns -k -
+1, where k is the position before which the element should be inserted.This is the same
+behavior as Arrays.binarySearch method.
+
+5. Write a class Person that implements the Comparable interface. Compare persons by
+their names. Ask the user to input ten names and generate ten Person objects. Using
+the compareTo method, determine the first and last person among them and print them.
+
+6. Sort an array list of strings by length, and so the strings of the same length are sorted
+alphabetically.

@@ -1,0 +1,19 @@
+Data Structures and Algorithms
+Homework Problem Set 5
+
+1. Write a program using a Linked List that will maintain a list of top ten players with their
+scores. A link on the list consists of a name and a score, and the list is kept sorted in
+descending order of scores. The linked list should have a constructor that sets up an
+empty list, and a void insert(String name, int score) method that adds a name and a
+score pair to the list. The insert method puts the link in the proper position so that the
+list stays sorted by score. The list should have a maximum size of 5. After that list has 5
+links, an attempt to add a name with a score less than or equal to the lowest score on
+the list is ignored, and adding a score that is greater than the lowest score causes the
+link with the lowest score to be dropped from the list. Complete the program with GUI.
+
+2. Write a program to capture 100, 500, 1000, 2000, 3000, and 5000 words from a text file
+you can easily download from the Internet. Put these words into 6 String arrays,
+respectively. Now you will implement Insertion sort, shell sort and merge sort to sort
+these 6 arrays. You will plot the amounts of time for each array for all three sorting
+algorithms in a table and a chart. Discuss the Big O complexity level using a readme file
+saved inside the project.
